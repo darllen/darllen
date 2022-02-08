@@ -4,7 +4,7 @@
 
 ### Meu nome é Jamilly, sou estudante de Desenvolvimento Java Web.
 
-Tenho 20 anos, pernambucana raíz. Simpatizo com a área da economia,
+Tenho 21 anos, pernambucana raíz. Simpatizo com a área da economia,
 mas recentemente descobri uma paixão muito maior, a tecnologia. Então resolvi
 seguir esse sonho e hoje estou estudando Desenvolvimento Web em Java. 
 
