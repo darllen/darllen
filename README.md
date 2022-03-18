@@ -2,13 +2,7 @@
     Oii, tudo bem? 😊
 </h2>
 
-### Meu nome é Jamilly, sou estudante de Desenvolvimento Java Web.
-
-Tenho 21 anos, pernambucana raíz. Simpatizo com a área da economia,
-mas recentemente descobri uma paixão muito maior, a tecnologia. Então resolvi
-seguir esse sonho e hoje estou estudando Desenvolvimento Web em Java. 
-
-Amo ler romances, cantar e sair com amigos!
+### Sou estudante de Desenvolvimento Java Web
 <div style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/jamilly-anunciada/" target="_blank"><img align="center" alt="darllen-linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>    <a href="mailto:jamillymilly10@hotmail.com" target="_blank"><img align="center" alt="darllen-email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 
