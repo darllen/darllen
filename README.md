@@ -1,7 +1,7 @@
 <h2 align="center">Hi 😊</h2>
 👩‍🎓 START by Accenture 2021 <br>
-👨‍💻 IFPE - Análise e Desenvolvimento de Sistemas 2/5 <br>
-📚 Java e Python
+👨‍💻 IFPE - Análise e Desenvolvimento de Sistemas 3/5 <br>
+📚 Desenvolvedora Java Web em formação
 
 <div style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/jamilly-anunciada/" target="_blank"><img align="center" alt="darllen-linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>    <a href="mailto:jamillymilly10@hotmail.com" target="_blank"><img align="center" alt="darllen-email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
