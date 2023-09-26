@@ -4,7 +4,7 @@
   <P>
     ✔️ START by Accenture 2021 <br>
 📚 IFPE - Análise e Desenvolvimento de Sistemas 4/5 <br><br>
-Sou uma desenvolvedora apaixonada por construir coisas que melhoram a vida das pessoas ao meu redor. <br> Veja mais detalhes no <a href="https://www.linkedin.com/in/jamilly-anunciada/">meu Linkedin</a>
+Sou uma desenvolvedora apaixonada por construir coisas que melhoram a vida das pessoas ao meu redor. <br> Veja mais detalhes no <a href="https://www.linkedin.com/in/jamilly-anunciada/" target="_blank">meu Linkedin</a>
     
   </p>
 </div><br>
@@ -17,7 +17,7 @@ Sou uma desenvolvedora apaixonada por construir coisas que melhoram a vida das p
   
 <div> 
   <h2>Contatos 👇 </h2>
-  <a href="https://www.linkedin.com/in/jamilly-anunciada/"><img id="linkedIn" align="center" max-width=100%  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jamilly-anunciada/" target="_blank"><img id="linkedIn" align="center" max-width=100%  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:jdac@discente.ifpe.edu.br"><img id="gmail" align="center" max-width=100%  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="mailto:jamillymilly10@hotmail.com" target="_blank"><img align="center" alt="darllen-email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </div><br>
