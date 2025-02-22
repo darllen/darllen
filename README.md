@@ -3,7 +3,7 @@
   <h1>Olá, sou Jamilly Anunciada!!! 👋 </h1>
   <P>
     ✔️ START by Accenture 2021 <br>
-📚 IFPE - Análise e Desenvolvimento de Sistemas 5/5 <br><br>
+📚 Analista e Desenvolvedora de Sistemas <br><br>
 Sou uma desenvolvedora apaixonada por construir coisas que melhoram a vida das pessoas ao meu redor. <br> Veja mais detalhes no <a href="https://www.linkedin.com/in/jamilly-anunciada/" target="_blank">meu Linkedin</a>
     
   </p>
